@@ -1,0 +1,1140 @@
+#VRML V2.0 utf8
+
+DEF Viewer Info {
+	type "Viewpoint"
+	position 0 0 20
+	orientation 0 0 1 0
+	fieldOfView 0.785
+	description "Viewpoint for the Scene"
+}
+
+Transform {
+	translation -0.497776 -0.205266 0.290318
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation 0.123091 -0.339972 0.020377
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation 0.271697 0.299270 0.410627
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation 0.284486 0.079131 0.438327
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation 0.134182 -0.116335 -0.199459
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.229501 0.048101 0.329649
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.134959 0.091223 0.165124
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation 0.001175 -0.061788 0.451219
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.121570 0.495731 0.266379
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation 0.484446 -0.382405 -0.390123
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.453818 0.343440 -0.186111
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.348568 0.339592 -0.014885
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.323597 0.321777 0.419709
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation 0.324681 -0.318377 0.424972
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.182774 0.361205 0.429031
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation 0.026570 0.078110 -0.466242
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.024066 0.413294 -0.024129
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.368726 0.397869 -0.078948
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation 0.161432 -0.006367 0.116288
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	translation -0.085251 -0.037557 0.425256
+	children [
+		Shape {
+			geometry Sphere { radius 0.010000 }
+			appearance Appearance { material Material { diffuseColor 1.000000 0.000000 0.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.497776 -0.205266 0.290318,
+					-0.229501 0.048101 0.329649
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.497776 -0.205266 0.290318,
+					-0.134959 0.091223 0.165124
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.497776 -0.205266 0.290318,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.123091 -0.339972 0.020377,
+					0.134182 -0.116335 -0.199459
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.123091 -0.339972 0.020377,
+					0.324681 -0.318377 0.424972
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.123091 -0.339972 0.020377,
+					0.161432 -0.006367 0.116288
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.271697 0.299270 0.410627,
+					0.284486 0.079131 0.438327
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.271697 0.299270 0.410627,
+					0.001175 -0.061788 0.451219
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.271697 0.299270 0.410627,
+					-0.121570 0.495731 0.266379
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.271697 0.299270 0.410627,
+					-0.182774 0.361205 0.429031
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.271697 0.299270 0.410627,
+					0.161432 -0.006367 0.116288
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.271697 0.299270 0.410627,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.284486 0.079131 0.438327,
+					0.001175 -0.061788 0.451219
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.284486 0.079131 0.438327,
+					0.324681 -0.318377 0.424972
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.284486 0.079131 0.438327,
+					0.161432 -0.006367 0.116288
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.284486 0.079131 0.438327,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.134182 -0.116335 -0.199459,
+					-0.134959 0.091223 0.165124
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.134182 -0.116335 -0.199459,
+					0.484446 -0.382405 -0.390123
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.134182 -0.116335 -0.199459,
+					0.026570 0.078110 -0.466242
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.134182 -0.116335 -0.199459,
+					0.161432 -0.006367 0.116288
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.229501 0.048101 0.329649,
+					-0.134959 0.091223 0.165124
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.229501 0.048101 0.329649,
+					0.001175 -0.061788 0.451219
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.229501 0.048101 0.329649,
+					-0.121570 0.495731 0.266379
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.229501 0.048101 0.329649,
+					-0.348568 0.339592 -0.014885
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.229501 0.048101 0.329649,
+					-0.323597 0.321777 0.419709
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.229501 0.048101 0.329649,
+					-0.182774 0.361205 0.429031
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.229501 0.048101 0.329649,
+					0.161432 -0.006367 0.116288
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.229501 0.048101 0.329649,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.134959 0.091223 0.165124,
+					0.001175 -0.061788 0.451219
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.134959 0.091223 0.165124,
+					-0.121570 0.495731 0.266379
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.134959 0.091223 0.165124,
+					-0.348568 0.339592 -0.014885
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.134959 0.091223 0.165124,
+					-0.323597 0.321777 0.419709
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.134959 0.091223 0.165124,
+					-0.182774 0.361205 0.429031
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.134959 0.091223 0.165124,
+					-0.024066 0.413294 -0.024129
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.134959 0.091223 0.165124,
+					-0.368726 0.397869 -0.078948
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.134959 0.091223 0.165124,
+					0.161432 -0.006367 0.116288
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.134959 0.091223 0.165124,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.001175 -0.061788 0.451219,
+					0.324681 -0.318377 0.424972
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.001175 -0.061788 0.451219,
+					-0.182774 0.361205 0.429031
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.001175 -0.061788 0.451219,
+					0.161432 -0.006367 0.116288
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.001175 -0.061788 0.451219,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.121570 0.495731 0.266379,
+					-0.348568 0.339592 -0.014885
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.121570 0.495731 0.266379,
+					-0.323597 0.321777 0.419709
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.121570 0.495731 0.266379,
+					-0.182774 0.361205 0.429031
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.121570 0.495731 0.266379,
+					-0.024066 0.413294 -0.024129
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.121570 0.495731 0.266379,
+					-0.368726 0.397869 -0.078948
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.453818 0.343440 -0.186111,
+					-0.348568 0.339592 -0.014885
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.453818 0.343440 -0.186111,
+					-0.024066 0.413294 -0.024129
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.453818 0.343440 -0.186111,
+					-0.368726 0.397869 -0.078948
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.348568 0.339592 -0.014885,
+					-0.323597 0.321777 0.419709
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.348568 0.339592 -0.014885,
+					-0.182774 0.361205 0.429031
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.348568 0.339592 -0.014885,
+					-0.024066 0.413294 -0.024129
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.348568 0.339592 -0.014885,
+					-0.368726 0.397869 -0.078948
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.323597 0.321777 0.419709,
+					-0.182774 0.361205 0.429031
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.323597 0.321777 0.419709,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.324681 -0.318377 0.424972,
+					0.161432 -0.006367 0.116288
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.324681 -0.318377 0.424972,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.182774 0.361205 0.429031,
+					-0.024066 0.413294 -0.024129
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.182774 0.361205 0.429031,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.024066 0.413294 -0.024129,
+					-0.368726 0.397869 -0.078948
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					-0.024066 0.413294 -0.024129,
+					0.161432 -0.006367 0.116288
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
+Transform {
+	children [
+		Shape {
+			geometry IndexedLineSet {
+				coord Coordinate { point [
+					0.161432 -0.006367 0.116288,
+					-0.085251 -0.037557 0.425256
+				] }
+				coordIndex [ 0, 1 ]
+			}
+			appearance Appearance { material Material { diffuseColor 1.000000 1.000000 1.000000 } }
+		}
+	]
+}
+
